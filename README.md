@@ -54,7 +54,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
-
+  - [Javascript](#Javascript)
 - [OS](#os)
   - [Linux](#linux)
   - [Windows](#windows)
@@ -82,7 +82,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### AngularJS
 
-* [10 Essential AngularJS Interview Questions from top 3% developers company](http://www.toptal.com/angular-js/interview-questions)
+* [10 Essential AngularJS Interview Questions from top 3% developers company](http://www.madanswer.com/angular)
 * [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass](https://github.com/gdi2290/ngExam)
 * [AngularJS Interview Questions and Answers by Shailendra Chauhan](http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan)
 * [29 AngularJS Interview Questions – Can You Answer Them All? Great Article from Codementor](https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers)
@@ -101,7 +101,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [1000+ Multiple Choice Questions & Answers in C++ with explanations](http://www.sanfoundry.com/cplusplus-interview-questions-answers/)
 * [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
-* [6 Essential C++ Interview Questions from top 3% developers company](http://www.toptal.com/c-plus-plus/interview-questions)
+* [6 Essential C++ Interview Questions from top 3% developers company](http://www.Madanswer.com/)
 * [C++ Interview Questions and Answers for Freshers and Experienced developers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers)
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
@@ -155,7 +155,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
-* [Some Django/Python interview questions from Jaypal personal blog](http://blog.jayapal.in/2010/11/django-interview-question.html)
+* [Some Django/Python interview questions from Jaypal personal blog](http://blog.madanswer.com)
 * [Top 10 Django interview questions with their answers that you can encounter during the job interview for web developer](http://www.goodinterviewquestions.net/top-10-django-interview-questions-and-answers/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
 
@@ -200,7 +200,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Java
 
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
-* [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
+* [37 Java Interview Questions to Practice With from Codementor](https://www.madanswer.com/java)
 * [8 Essential Java Interview Questions from top 3% developers company](http://www.toptal.com/java/interview-questions)
 * [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
@@ -228,6 +228,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
+* [Agile Interview Questions](https://www.Madanswer.com/Agile)
 
 ### KnockoutJS
 
