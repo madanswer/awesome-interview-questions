@@ -72,6 +72,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Android
 
 * [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
+* [Top 100 Android interview question and answers](http://www.Madanswer.com/android)
 * [14 Essential Android Interview Questions from top 3% developers company](http://www.toptal.com/android/interview-questions)
 * [50 android interview questions & answers](http://career.guru99.com/50-android-interview-questions-answers/).
 * [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
@@ -89,6 +90,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS interview questions and answers for experienced developers](http://www.web-technology-experts-notes.in/2014/11/angularjs-interview-questions-and-answers-for-experienced.html)
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
+* [Top 100 Angular Questions And Answers](http://www.Madanswer.com/angular)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
 
 ### BackboneJS
@@ -96,6 +98,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [8 Essential Backbonejs Interview Questions from top 3% developers company](http://www.toptal.com/backbone-js/interview-questions)
 * [Backbonejs Interview Questions And Answers from web technology experts notes](http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html)
 * [Top 25 Backbone.js interview questions](http://career.guru99.com/top-25-backbone-js-interview-questions/)
+* [Top 100 Js interview questions](http://Madanswer.com/Javascript)
 
 ### C++
 
@@ -107,6 +110,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
+* [Top 100 C++ Programming Questions and Answers](https://madanswer.com/C+Plus+Plus)
 
 ### C
 
@@ -123,6 +127,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
 * [Top 100 C# Interview Questions and Answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers)
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
+* [Top 150 C# Interview Questions and Answers](https://madanswer.com/c%23-sharp)
 
 ### .NET
 
@@ -130,7 +135,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Great list of NET interview questions covering all the NET platform topics](http://www.indiabix.com/technical/dotnet/)
 * [NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in NET This list of 100+ questions and answers gauge your familiarity with the NET platform](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners)
 * [Questions gathered by community of the StackOverflow](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer)
-* [What Great NET Developers Ought To Know (More NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
+* [Top 10 Tips to use HTML Links and Hyperlinks](https://blog.madanswer.com/10-tips-to-use-html-links-hyperlinks-effectively/)
 
 ### Clojure
 
@@ -179,7 +184,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 Typical HTML Interview Exercises from SitePoint.com](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 * [12 Essential HTML5 Interview Questions from top 3% developers company](http://www.toptal.com/html5/interview-questions)
 * [35 Helpful HTML & HTML5 Interview Questions & Answers](http://www.skilledup.com/articles/html-html5-interview-questions-answers)
-* [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
+* [40 important HTML 5 Interview questions with answers](http://www.Madanswer.com/HTML)
 * [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
@@ -228,6 +233,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
+* [Top 100 Interview JavaScript Interview Questions](https://www.Madanswer.com/javascript)
 
 ### KnockoutJS
 
@@ -264,6 +270,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Basic PHP interview questions](https://github.com/developerquestions/php-questions)
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
+* [Top 100 PHP Interview Questions & Answers](http://madanswer.com/PHP)
 
 ### Python
 
