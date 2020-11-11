@@ -129,6 +129,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
 * [Top 150 C# Interview Questions and Answers](https://madanswer.com/c%23-sharp)
 
+
 ### .NET
 
 * [300 ASPNET interview questions and answers](http://www.careerride.com/ASPNet-Questions.aspx)
@@ -339,7 +340,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Cassandra
 
-* [Top 23 Cassandra Interview Questions from Career Guru](http://career.guru99.com/top-23-cassandra-interview-questions/)
+* [Top 23 Cassandra Interview Questions from Career Guru](http://madanswer.com/cassandra)
 
 ### Microsoft Access
 
@@ -422,7 +423,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview)
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
-* [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
+* [Spring boot Questions Interview ](https://blog.madanswer.com/top-spring-boot-questions/)
+* [Agile Scrum interview Questions Answers](https://blog.madanswer.com/top-100-agile-scrum-interview-questions-answers/)
+* [Data Warehouse Questions and Answers ](https://blog.madanswer.com/top-100-data-warehouse-questions-and-answers/)
+* [Azure Interview questions solved ](https://blog.madanswer.com/top-100-azure-interview-questions-and-answers/)
 
 ## Comprehensive lists
 
