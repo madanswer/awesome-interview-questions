@@ -106,6 +106,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 * [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
+* [Android Interview Questions and Answers](https://madanswer.com/android)
 * [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
 
 ### AngularJS
@@ -117,6 +118,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+* [Top 200+ Angularjs Interview Questions and Answers](https://madanswer.com/angular/)
 * [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
 
 ### Angular
@@ -281,6 +283,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
+* [Core Java MCQ Questions and Answers](https://madanswer.com/java)
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 * [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
 
